@@ -1,1 +1,1 @@
-mini-maker
+Mini Maker

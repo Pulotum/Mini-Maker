@@ -1,0 +1,64 @@
+html {
+	margin: 0;
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+body {
+	margin: 0;
+}
+
+.clearfix:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+ {
+	border: 1px solid red !important;
+}
+
+#hContent {
+	background-color: black;
+}
+
+#hContent h1 {
+	margin-bottom: 0;
+	padding: 10px;
+	color: white;
+}
+
+#hContent a {
+	color: white;
+}
+
+#hContent a:hover {
+	color: grey;
+}
+
+#bContent {
+	width: 80%;
+	margin: auto;
+	border-left: 1px solid grey;
+	border-right: 1px solid grey;
+}
+
+#bContent table {
+	margin: auto;
+	text-align: center;
+}
+
+#bContent input {
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+}
+
+#inpat {
+	width: 50%;
+}
+
+#fContent {
+	
+}
+
